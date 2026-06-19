@@ -5,16 +5,25 @@ This is a Course Management System built as part of my full stack web developmen
 The system allows users to manage course details with secure login authentication and full CRUD functionality.
 
 Features
-🔐 User Login Authentication
-➕ Create new course details
-📄 View all courses
-✏️ Update course information
-❌ Delete course records
-🛠️ Technologies Used
+🔐 User Login Authentication  
 
-Frontend: React.js, HTML, CSS, JavaScript
-Backend: Java (Spring Boot / Servlet – if used)
-Database: MySQL
+➕ Create new course details  
+
+📄 View all courses  
+
+✏️ Update course information  
+
+❌ Delete course records  
+
+🛠️ Technologies Used  
+
+  
+Frontend: React.js, HTML, CSS, JavaScript  
+
+Backend: Java (Spring Boot / Servlet – if used)  
+
+Database: MySQL  
+
 
 How it Works
   User logs in with credentials
